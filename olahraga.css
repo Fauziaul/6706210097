@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+}
+
+.header {
+  border: 1px solid none;
+  padding: 1px;
+  color: white;
+  background: red;
+  text-align: center;
+}
+
+h2 {
+    color: red;
+}
+
+.main {
+  width: 100%;
+  float: left;
+  padding: 15px;
+  border: 1px solid Blue;
+  background: #FFFACD;
+}
+
+.footer {
+  border: 1px solid blue;
+  padding: 15px;
+}
+img{
+    height: 300px;
+    width: 400px;
+    float: center;
+}
